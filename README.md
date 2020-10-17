@@ -1,6 +1,5 @@
 # SearchDevelopers
-sample code to search developers with github api v3 
-this is just sample code to use github api v3. 
+sample code to learn how to search developers with github api v3 
 
 ## how to use
 ```cp .env.example .env ```
